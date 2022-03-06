@@ -1,3 +1,3 @@
 main(){
-
+  print('hi world');
 }
